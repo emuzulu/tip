@@ -16,10 +16,8 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/fyHCKK4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/eKdh05A5Zy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-[let's see](https://imgur.com/gallery/fyHCKK4)
 
 ## Notes
 
